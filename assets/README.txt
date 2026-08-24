@@ -1,0 +1,1 @@
+Binary banner asset should be uploaded here.
